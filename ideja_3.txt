@@ -1,17 +1,45 @@
 Kāds varētu būt projekta nosaukums?
-
+SummaryBot
 
 Ko projekts dara vienā teikumā?
-
+Telegram bots, kas no lietotāja ievadīta teksta ģenerē īsu, saprotamu kopsavilkumu, izmantojot AI.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Tas ir produktivitātes un izglītības rīks, kas palīdz skolēniem un studentiem ātri saprast garus mācību tekstus un izcelt svarīgākos punktus.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni un studenti, kuri vēlas efektīvāk apgūt mācību materiālu un ietaupīt laiku.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs sūta tekstu Telegram botā un saņem atpakaļ AI ģenerētu kopsavilkumu. 
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+Lietotājs var nosūtīt tekstu Telegram botam
+Bots ģenerē īsu un saprotamu kopsavilkumu
+Bots parāda galvenos punktus 
+Paziņojums, ja teksts ir pārāk īss vai nav iespējams apstrādāt
+Saglabā kopsavilkumu lietotāja arhīvā
 
+5 funkcionalas prasibas 
+1)Lietotājs var nosūtīt jebkāda veida tekstu Telegram botam.
+2)Bots automātiski izveido īsu un saprotamu ievadītā teksta kopsavilkumu.
+3)Bots papildus kopsavilkumam izvada svarīgākos punktus saraksta veidā.
+4)Bots informē lietotāju, ja teksts ir pārāk īss, tukšs vai nav apstrādājams.
+5)Bots saglabā lietotāja kopsavilkumus, lai tos varētu vēlāk apskatīt.
+
+3 nefunkcionalas prasibas
+1)Bots apstrada datus jebkurā valoda.
+2)Izplides laiks neparsniedz 2 sekundes.
+3)Bots ģenerē kopsavilkumu dažu sekunžu laikā.
+
+Cik ļoti mani aizrauj šī tēma?
+3
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+3
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+4
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+4
+kopa:18

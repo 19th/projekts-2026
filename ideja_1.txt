@@ -1,17 +1,47 @@
 Kāds varētu būt projekta nosaukums?
-
+SmartPlanner Bot
 
 Ko projekts dara vienā teikumā?
-
+Telegram bots, kas palīdz studentiem plānot mājasdarbus, sekot termiņiem un arpus skolas notikumiem .
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Tas ir produktivitātes rīks, kas palīdz izvairīties no kavētiem termiņiem un stresa.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni un studenti ar saspringto grafiku
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Telegram bots ar komandām 
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+Pievienot uzdevumus
+Apskatīt uzdevumu sarakstu
+Atzīmēt kā izpildītu
+Atgādinājumi
+Prioritāšu noteikšana
+
+5 funkcionalas prasibas 
+1)Lietotājs var pievienot jaunu uzdevumu ar nosaukumu, termiņu un prioritāti.
+2)Bots parāda visus lietotāja uzdevumus (ar statusu, termiņu un prioritāti).
+3)Lietotājs var atzīmēt uzdevumu kā pabeigtu.
+4)Bots automātiski nosūta atgādinājumus pirms termiņa.
+5)Lietotājs var piešķirt vai mainīt uzdevuma prioritāti.
+
+3 nefunkcionalas prasibas
+1)Bots ir pieejams 24/7 (iznemot tehnisko iemeslu del).
+2)Izplides laiks neparsniedz 2 sekundes.
+3)Lietotāja dati tiek glabāti droši un nav pieejami citiem lietotājiem.
+
+Cik ļoti mani aizrauj šī tēma?
+4
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+5
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+4
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+5
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+5
+koopa:23
+
 

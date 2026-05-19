@@ -1,17 +1,44 @@
 Kāds varētu būt projekta nosaukums?
-
+ExplainMe Bot
 
 Ko projekts dara vienā teikumā?
-
+Telegram bots, kas paskaidro mācību tēmas vienkāršā un saprotamā valodā.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Šis projekts ir izglītojošs rīks, kas palīdz skolēniem un studentiem saprast sarežģītas tēmas, pārvēršot tās vienkāršos skaidrojumos.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni un studenti, kuriem ir grūtības saprast mācību vielu.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs mijiedarbosies ar programmu caur Telegram botu, ievadot komandas vai tēmas nosaukumu
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
+Bots dod ne tikai definīciju, bet arī piemēru
+Vēl vienkāršāks skaidrojums
+Pēc skaidrojuma bots uzdod jautājumu
+Kļūdas paziņojums, ja tēma nav atrasta
 
+5 funkcionalas prasibas 
+1)Lietotājs var ievadīt mācību tēmu vai jautājumu, un bots to apstrādā.
+2)Bots sniedz vienkāršu un saprotamu tēmas skaidrojumu.
+3)Bots papildina skaidrojumu ar praktisku piemēru.
+40Lietotājs var pieprasīt vēl vienkāršāku skaidrojumu.
+5)Bots uzdod lietotājam pārbaudes jautājumu, lai nostiprinātu izpratni.
+
+3 nefunkcionalas prasibas
+1)Bots ir pieejams 24/7 (iznemot tehnisko iemeslu del).
+2)Izplides laiks neparsniedz 2 sekundes.
+3)Bots darbojas dažādās ierīcēs caur Telegram.
+
+Cik ļoti mani aizrauj šī tēma?
+4
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+3
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+3
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+5
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+5
+kopa:20
